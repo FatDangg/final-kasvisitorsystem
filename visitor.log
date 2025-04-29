@@ -1,0 +1,189 @@
+2025-04-19 00:08:34,700 [INFO] ? Logging setup is working.
+2025-04-19 00:08:34,804 [INFO] ? Logging setup is working.
+2025-04-19 00:21:01,477 [INFO] ? Logging initialized and working.
+2025-04-19 00:21:01,478 [INFO] ? Logging setup is working.
+2025-04-19 00:21:01,570 [INFO] ? Logging initialized and working.
+2025-04-19 00:21:01,570 [INFO] ? Logging setup is working.
+2025-04-19 00:21:05,174 [INFO] ? Logging initialized and working.
+2025-04-19 00:21:05,174 [INFO] ? Logging setup is working.
+2025-04-19 00:21:05,217 [INFO] ? Logging initialized and working.
+2025-04-19 00:21:05,218 [INFO] ? Logging setup is working.
+2025-04-19 00:23:27,298 [INFO] ? Logging initialized and working.
+2025-04-19 00:23:27,298 [INFO] ? Logging setup is working.
+2025-04-19 00:23:27,366 [INFO] ? Logging initialized and working.
+2025-04-19 00:23:27,366 [INFO] ? Logging setup is working.
+2025-04-19 00:23:31,272 [INFO] ? /submit endpoint triggered.
+2025-04-19 00:34:55,096 [INFO] ? Logging initialized and working.
+2025-04-19 00:34:55,097 [INFO] ? Logging setup is working.
+2025-04-19 00:34:55,116 [INFO] ? Logging initialized and working.
+2025-04-19 00:34:55,116 [INFO] ? Logging setup is working.
+2025-04-19 00:35:05,619 [INFO] ? /submit endpoint triggered.
+2025-04-19 00:35:05,762 [INFO] ?? Entered auto_print_label()
+2025-04-19 00:35:05,809 [INFO] ? settung up the printer...
+2025-04-19 00:39:31,629 [INFO] ? Logging initialized and working.
+2025-04-19 00:39:31,630 [INFO] ? Logging setup is working.
+2025-04-19 00:39:31,696 [INFO] ? Logging initialized and working.
+2025-04-19 00:39:31,696 [INFO] ? Logging setup is working.
+2025-04-19 00:39:47,221 [INFO] ? /submit endpoint triggered.
+2025-04-19 00:39:47,365 [INFO] ?? Entered auto_print_label()
+2025-04-19 00:39:47,412 [INFO] ? settung up the printer...
+2025-04-19 00:39:47,412 [INFO] ?? Converting label for QL-800...
+2025-04-19 00:39:47,412 [ERROR] ? Error during label conversion
+Traceback (most recent call last):
+  File "/home/danielchen/new-kasvisitorsystem/app2.py", line 225, in auto_print_label
+    instructions = convert(
+                   ^^^^^^^^
+  File "/home/danielchen/new-kasvisitorsystem/venv/lib/python3.11/site-packages/brother_ql/conversion.py", line 89, in convert
+    raise NotImplementedError("The image argument needs to be an Image() instance or the filename to an image.")
+NotImplementedError: The image argument needs to be an Image() instance or the filename to an image.
+2025-04-19 00:43:58,704 [INFO] ? Logging initialized and working.
+2025-04-19 00:43:58,705 [INFO] ? Logging initialized and working.
+2025-04-19 00:43:58,706 [INFO] ? Logging setup is working.
+2025-04-19 00:43:58,706 [INFO] ? Logging setup is working.
+2025-04-21 11:53:19,657 [INFO] ? Logging initialized and working.
+2025-04-21 11:53:19,657 [INFO] ? Logging setup is working.
+2025-04-21 11:53:19,697 [INFO] ? Logging initialized and working.
+2025-04-21 11:53:19,697 [INFO] ? Logging setup is working.
+2025-04-21 11:59:12,073 [INFO] ? Logging initialized and working.
+2025-04-21 11:59:12,073 [INFO] ? Logging setup is working.
+2025-04-21 11:59:12,077 [INFO] ? Logging initialized and working.
+2025-04-21 11:59:12,077 [INFO] ? Logging setup is working.
+2025-04-21 12:51:47,847 [INFO] ? Logging initialized and working.
+2025-04-21 12:51:47,847 [INFO] ? Logging setup is working.
+2025-04-21 12:51:47,929 [INFO] ? Logging initialized and working.
+2025-04-21 12:51:47,929 [INFO] ? Logging setup is working.
+2025-04-21 12:59:24,164 [INFO] ? Logging initialized and working.
+2025-04-21 12:59:24,164 [INFO] ? Logging initialized and working.
+2025-04-21 12:59:24,164 [INFO] ? Logging setup is working.
+2025-04-21 12:59:24,164 [INFO] ? Logging setup is working.
+2025-04-21 13:03:39,713 [INFO] ? Logging initialized and working.
+2025-04-21 13:03:39,714 [INFO] ? Logging setup is working.
+2025-04-21 13:03:39,752 [INFO] ? Logging initialized and working.
+2025-04-21 13:03:39,752 [INFO] ? Logging setup is working.
+2025-04-21 13:05:34,712 [INFO] ? Logging initialized and working.
+2025-04-21 13:05:34,712 [INFO] ? Logging initialized and working.
+2025-04-21 13:05:34,712 [INFO] ? Logging setup is working.
+2025-04-21 13:05:34,712 [INFO] ? Logging setup is working.
+2025-04-23 09:32:38,556 [INFO] ? Logging initialized and working.
+2025-04-23 09:32:38,556 [INFO] ? Logging initialized and working.
+2025-04-23 09:32:38,557 [INFO] ? Logging setup is working.
+2025-04-23 09:32:38,557 [INFO] ? Logging setup is working.
+2025-04-23 09:33:55,656 [INFO] ? Logging initialized and working.
+2025-04-23 09:33:55,656 [INFO] ? Logging setup is working.
+2025-04-23 09:33:55,747 [INFO] ? Logging initialized and working.
+2025-04-23 09:33:55,747 [INFO] ? Logging setup is working.
+2025-04-23 09:42:04,957 [INFO] ? /submit endpoint triggered.
+2025-04-23 09:42:05,052 [INFO] ?? Entered auto_print_label()
+2025-04-23 09:42:05,148 [INFO] ? settung up the printer...
+2025-04-23 09:42:05,148 [INFO] ?? Converting label for QL-800...
+2025-04-23 09:42:05,161 [WARNING] Need to resize the image...
+2025-04-23 09:42:05,300 [INFO] ? Label instructions prepared.
+2025-04-23 09:42:05,300 [INFO] ? Sending label to printer...
+2025-04-23 09:51:10,237 [INFO] ? Logging initialized and working.
+2025-04-23 09:51:10,237 [INFO] ? Logging setup is working.
+2025-04-23 09:51:10,321 [INFO] ? Logging initialized and working.
+2025-04-23 09:51:10,322 [INFO] ? Logging setup is working.
+2025-04-23 09:57:39,788 [INFO] ? Logging initialized and working.
+2025-04-23 09:57:39,788 [INFO] ? Logging setup is working.
+2025-04-23 09:57:39,857 [INFO] ? Logging initialized and working.
+2025-04-23 09:57:39,857 [INFO] ? Logging setup is working.
+2025-04-23 09:59:39,974 [INFO] ? /submit endpoint triggered.
+2025-04-23 09:59:40,258 [INFO] ?? Entered auto_print_label()
+2025-04-23 09:59:40,298 [INFO] ? settung up the printer...
+2025-04-23 09:59:40,298 [INFO] ?? Converting label for QL-800...
+2025-04-23 09:59:40,310 [WARNING] Need to resize the image...
+2025-04-23 09:59:40,455 [INFO] ? Label instructions prepared.
+2025-04-23 09:59:40,455 [INFO] ? Sending label to printer...
+2025-04-23 10:00:28,648 [INFO] ? /submit endpoint triggered.
+2025-04-23 10:00:28,948 [INFO] ?? Entered auto_print_label()
+2025-04-23 10:00:28,989 [INFO] ? settung up the printer...
+2025-04-23 10:00:28,989 [INFO] ?? Converting label for QL-800...
+2025-04-23 10:00:29,001 [WARNING] Need to resize the image...
+2025-04-23 10:00:29,146 [INFO] ? Label instructions prepared.
+2025-04-23 10:00:29,146 [INFO] ? Sending label to printer...
+2025-04-23 10:02:46,146 [INFO] ? Logging initialized and working.
+2025-04-23 10:02:46,146 [INFO] ? Logging setup is working.
+2025-04-23 10:02:46,224 [INFO] ? Logging initialized and working.
+2025-04-23 10:02:46,224 [INFO] ? Logging setup is working.
+2025-04-23 10:03:55,737 [INFO] ? /submit endpoint triggered.
+2025-04-23 10:03:56,029 [INFO] ?? Entered auto_print_label()
+2025-04-23 10:03:56,072 [INFO] ? settung up the printer...
+2025-04-23 10:03:56,072 [INFO] ?? Converting label for QL-800...
+2025-04-23 10:03:56,084 [WARNING] Need to resize the image...
+2025-04-23 10:03:56,229 [INFO] ? Label instructions prepared.
+2025-04-23 10:03:56,229 [INFO] ? Sending label to printer...
+2025-04-23 10:12:15,062 [INFO] ? Logging initialized and working.
+2025-04-23 10:12:15,062 [INFO] ? Logging setup is working.
+2025-04-23 10:12:15,162 [INFO] ? Logging initialized and working.
+2025-04-23 10:12:15,162 [INFO] ? Logging setup is working.
+2025-04-23 10:12:32,305 [INFO] ? /submit endpoint triggered.
+2025-04-23 10:12:32,590 [INFO] ?? Entered auto_print_label()
+2025-04-23 10:12:32,629 [INFO] ? settung up the printer...
+2025-04-23 10:12:32,629 [INFO] ?? Converting label for QL-800...
+2025-04-23 10:12:32,642 [WARNING] Need to resize the image...
+2025-04-23 10:12:32,786 [INFO] ? Label instructions prepared.
+2025-04-23 10:12:32,786 [INFO] ? Sending label to printer...
+2025-04-23 10:12:32,803 [INFO] Sending instructions to the printer. Total: 106264 bytes.
+2025-04-23 10:12:34,543 [INFO] ✅ Label (text at top, photo below) sent to QL-800.
+2025-04-23 10:14:36,648 [INFO] ? /submit endpoint triggered.
+2025-04-23 10:14:36,941 [INFO] ?? Entered auto_print_label()
+2025-04-23 10:14:36,982 [INFO] ? settung up the printer...
+2025-04-23 10:14:36,982 [INFO] ?? Converting label for QL-800...
+2025-04-23 10:14:36,994 [WARNING] Need to resize the image...
+2025-04-23 10:14:37,138 [INFO] ? Label instructions prepared.
+2025-04-23 10:14:37,139 [INFO] ? Sending label to printer...
+2025-04-23 10:14:37,159 [INFO] Sending instructions to the printer. Total: 106264 bytes.
+2025-04-23 10:14:38,889 [INFO] ✅ Label (text at top, photo below) sent to QL-800.
+2025-04-23 10:15:53,432 [INFO] ? /submit endpoint triggered.
+2025-04-23 10:15:53,756 [INFO] ?? Entered auto_print_label()
+2025-04-23 10:15:53,791 [INFO] ? settung up the printer...
+2025-04-23 10:15:53,791 [INFO] ?? Converting label for QL-800...
+2025-04-23 10:15:53,803 [WARNING] Need to resize the image...
+2025-04-23 10:15:53,948 [INFO] ? Label instructions prepared.
+2025-04-23 10:15:53,948 [INFO] ? Sending label to printer...
+2025-04-23 10:15:53,953 [INFO] Sending instructions to the printer. Total: 106264 bytes.
+2025-04-23 10:15:55,691 [INFO] ✅ Label (text at top, photo below) sent to QL-800.
+2025-04-23 10:17:10,738 [INFO] ? Logging initialized and working.
+2025-04-23 10:17:10,738 [INFO] ? Logging initialized and working.
+2025-04-23 10:17:10,740 [INFO] ? Logging setup is working.
+2025-04-23 10:17:10,740 [INFO] ? Logging setup is working.
+2025-04-25 09:16:59,169 [INFO] ? Logging initialized and working.
+2025-04-25 09:16:59,169 [INFO] ? Logging setup is working.
+2025-04-25 09:16:59,247 [INFO] ? Logging initialized and working.
+2025-04-25 09:16:59,247 [INFO] ? Logging setup is working.
+2025-04-25 09:44:12,095 [INFO] ? Logging initialized and working.
+2025-04-25 09:44:12,095 [INFO] ? Logging initialized and working.
+2025-04-25 09:44:12,098 [INFO] ? Logging setup is working.
+2025-04-25 09:44:12,098 [INFO] ? Logging setup is working.
+2025-04-26 17:23:38,782 [INFO] ? Logging initialized and working.
+2025-04-26 17:23:38,783 [INFO] ? Logging setup is working.
+2025-04-26 17:23:38,805 [INFO] ? Logging initialized and working.
+2025-04-26 17:23:38,805 [INFO] ? Logging setup is working.
+2025-04-26 17:32:33,127 [INFO] ? Logging initialized and working.
+2025-04-26 17:32:33,127 [INFO] ? Logging setup is working.
+2025-04-26 17:32:33,199 [INFO] ? Logging initialized and working.
+2025-04-26 17:32:33,199 [INFO] ? Logging setup is working.
+2025-04-26 17:41:12,657 [INFO] ? /submit endpoint triggered.
+2025-04-26 17:41:12,948 [INFO] ?? Entered auto_print_label()
+2025-04-26 17:41:13,058 [INFO] ? settung up the printer...
+2025-04-26 17:41:13,058 [INFO] ?? Converting label for QL-800...
+2025-04-26 17:41:13,070 [WARNING] Need to resize the image...
+2025-04-26 17:41:13,215 [INFO] ? Label instructions prepared.
+2025-04-26 17:41:13,216 [INFO] ? Sending label to printer...
+2025-04-26 18:02:55,263 [INFO] ? Logging initialized and working.
+2025-04-26 18:02:55,263 [INFO] ? Logging initialized and working.
+2025-04-26 18:02:55,264 [INFO] ? Logging setup is working.
+2025-04-26 18:02:55,264 [INFO] ? Logging setup is working.
+2025-04-29 14:38:15,007 [INFO] ? Logging initialized and working.
+2025-04-29 14:38:15,008 [INFO] ? Logging setup is working.
+2025-04-29 14:38:15,010 [INFO] ? Logging initialized and working.
+2025-04-29 14:38:15,010 [INFO] ? Logging setup is working.
+2025-04-29 14:39:00,794 [INFO] ? /submit endpoint triggered.
+2025-04-29 14:39:01,070 [INFO] ?? Entered auto_print_label()
+2025-04-29 14:39:01,168 [INFO] ? settung up the printer...
+2025-04-29 14:39:01,168 [INFO] ?? Converting label for QL-800...
+2025-04-29 14:39:01,180 [WARNING] Need to resize the image...
+2025-04-29 14:39:01,327 [INFO] ? Label instructions prepared.
+2025-04-29 14:39:01,327 [INFO] ? Sending label to printer...
+2025-04-29 14:39:01,365 [INFO] Sending instructions to the printer. Total: 106264 bytes.
+2025-04-29 14:39:03,102 [INFO] ✅ Label (text at top, photo below) sent to QL-800.
